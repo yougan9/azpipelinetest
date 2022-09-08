@@ -20,6 +20,6 @@ steps:
     location: 'East US'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/Azure/azure-docs-json-samples/master/get-started-deployment/linked-template/azuredeploy.json'
-    overrideParameters: '-projectName azarmpipeline'
+    overrideParameters: '-projectName azarmpl'
     deploymentMode: 'Incremental'
     deploymentName: 'azarmpipeline'
